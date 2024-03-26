@@ -1,3 +1,14 @@
-Get started by customizing your environment (defined in the .idx/dev.nix file) with the tools and IDE extensions you'll need for your project!
+# Sales Stream
+Sales Stream serves as a Java written application that serves to be both an **ecommerce** and a **POS system** at once. What started as a simple group assignment, the system will continue to be worked on implementing features as listed below:
 
-Learn more at https://developers.google.com/idx/guides/customize-idx-env
+## Existing Features
+- N/A
+
+## Upcoming Features
+- User Login
+- User Management (From the Admin Level)
+- Inventory Management
+- Payment Processing
+- Handling Transactions
+- Search Functionality
+- Reporting
